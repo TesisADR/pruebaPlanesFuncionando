@@ -1,0 +1,10 @@
+domainapp/webapp/application/services/health/HealthCheckServiceImpl.class
+domainapp/webapp/AppManifest.class
+domainapp/webapp/custom/restapi/CustomController.class
+domainapp/webapp/application/services/homepage/HomePageViewModel.class
+domainapp/webapp/quartz/QuartzModule.class
+domainapp/webapp/quartz/job/SampleJob.class
+domainapp/webapp/application/fixture/scenarios/PlanDemo.class
+domainapp/webapp/custom/CustomModule.class
+domainapp/webapp/PlanApp.class
+domainapp/webapp/application/ApplicationModule.class

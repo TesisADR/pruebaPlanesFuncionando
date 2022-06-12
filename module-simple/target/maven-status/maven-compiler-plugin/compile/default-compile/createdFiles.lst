@@ -1,0 +1,10 @@
+domainapp/modules/planes/PlanModule.class
+domainapp/modules/planes/dom/plan/Plan.class
+domainapp/modules/planes/types/Notes.class
+domainapp/modules/planes/dom/plan/Planes.class
+domainapp/modules/planes/fixture/Plan_persona$PersistAll.class
+domainapp/modules/planes/dom/plan/QPlan.class
+domainapp/modules/planes/fixture/PlanBuilder.class
+domainapp/modules/planes/PlanModule$1.class
+domainapp/modules/planes/fixture/Plan_persona.class
+domainapp/modules/planes/types/Name.class

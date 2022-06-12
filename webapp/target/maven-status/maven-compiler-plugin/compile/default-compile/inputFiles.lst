@@ -1,0 +1,10 @@
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/application/ApplicationModule.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/custom/restapi/CustomController.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/application/fixture/scenarios/PlanDemo.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/AppManifest.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/application/services/health/HealthCheckServiceImpl.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/application/services/homepage/HomePageViewModel.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/quartz/QuartzModule.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/custom/CustomModule.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/quartz/job/SampleJob.java
+/home/lauti/escritorio/workspace-afiliado/afiliado/afiliadoapp/webapp/src/main/java/domainapp/webapp/PlanApp.java
